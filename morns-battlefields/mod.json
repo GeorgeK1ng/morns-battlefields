@@ -1,0 +1,25 @@
+{
+	"name" : "Morn's Battlefiels",
+	"description" : "Morn's battlefield graphics ported to VCMI",
+	"version" : "1.1",
+	"author" : "Morn",
+	"contact" : "http://heroescommunity.com/viewthread.php3?TID=39062",
+	"modType" : "Graphical",
+	"compatibility" :
+	{
+		"min" : "1.3.0"
+	},
+	"changelog" :
+    {
+        "1.1"   : [ "Update to vcmi-1.3", "New graphic added" ],
+		"1.0"   : [ "Initial release" ]
+	},
+	"battlefields" :
+	[
+		"config/morn_battlefields.json"
+	],
+	"terrains" :
+	[
+		"config/morn_terrains.json"
+	]
+}

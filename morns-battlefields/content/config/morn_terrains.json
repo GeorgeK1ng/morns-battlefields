@@ -1,0 +1,38 @@
+{
+	"core:dirt" :
+	{
+		"battleFields" : ["dirt_birches", "dirt_hills", "dirt_pines", "dirt1", "dirt2", "dirt3", "dirt4", "dirt5" ]
+	},
+	"core:grass" :
+	{
+		"battleFields" : ["grass_hills", "grass_pines", "grass1", "grass2", "grass3", "grass4", "grass5", "grass6", "grass7", "grass8", "grass9" ]
+	},
+	"core:sand" :
+	{
+		"battleFields" : ["sand_mesas", "sand1", "sand2", "sand3", "sand4", "sand5", "sand6", "sand7", "sand8", "sand9", "sand10" ] 
+	},
+	"core:snow" :
+	{
+		"battleFields" : ["snow_mountains", "snow_trees", "snow1", "snow2", "snow3", "snow4", "snow5", "snow6", "snow7", "snow8" ]
+	},
+	"core:swamp" :
+	{
+		"battleFields" : ["swamp_trees", "swamp1", "swamp2", "swamp3", "swamp4", "swamp5", "swamp6", "swamp7", "swamp8" ]
+	},
+	"core:rough" :
+	{
+		"battleFields" : ["rough", "rough1", "rough2", "rough3", "rough4", "rough5", "rough6", "rough7" ]
+	},
+	"core:subterra" :
+	{
+		"battleFields" : ["subterranean", "subterra1", "subterra2", "subterra3", "subterra4", "subterra5", "subterra6" ]
+	},
+	"core:lava" :
+	{
+		"battleFields" : ["lava", "lava1", "lava2", "lava3", "lava4", "lava5", "lava6", "lava7", "lava8", "lava9", "lava10", "lava11", "lava12" ]
+	},
+	"core:water" :
+	{
+		"battleFields" : ["ship", "water1", "water2", "water3", "water4"]
+	}
+}
